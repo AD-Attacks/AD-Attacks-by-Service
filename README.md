@@ -19,9 +19,9 @@ Active Directory Penetration Testing for Red Teams
 - Enumerate Password Policies
 - Enumerate Sessions
 - Enumerate Groups
-- Enumerate 
-- Enumerate 
-
+- Enumerate Domain (https://www.poplabsec.com/active-directory-enumerate-domains/)
+- Enumerate GPOs
+- Enumerate OUs
 
 
 
