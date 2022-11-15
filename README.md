@@ -11,7 +11,10 @@ Active Directory Penetration Testing for Red Teams
 
 ## Active Directory Remote Enumeration
 Enumerate without Cretentials
-
+- Public Shares
+- Null Sessions
+- MiTM / Spoofing
+- 
 
 
 
@@ -26,7 +29,7 @@ Enumerate without Cretentials
 - Enumerate Domain (https://www.poplabsec.com/active-directory-enumerate-domains/)
 - Enumerate GPOs https://www.poplabsec.com/active-directory-enumerate-group-policy-objects/
 - Enumerate OUs
-
+- Enumerate Anti virus
 
 
 ## Active Directory DNS Server
