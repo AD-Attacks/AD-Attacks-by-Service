@@ -26,9 +26,12 @@ Enumerate without Cretentials
 - Enumerate Password Policies
 - Enumerate Active Sessions
 - Enumerate Groups
-- Enumerate Domain (https://www.poplabsec.com/active-directory-enumerate-domains/)
+- Enumerate Domains (https://www.poplabsec.com/active-directory-enumerate-domains/)
 - Enumerate GPOs https://www.poplabsec.com/active-directory-enumerate-group-policy-objects/
 - Enumerate OUs
+- Enumerate ACLs
+- Enumerate 
+- Enumerate Forests
 - Enumerate Anti virus
 
 
@@ -36,7 +39,13 @@ Enumerate without Cretentials
 ## Active Directory Certificates
 ## Active Directory LDAP
 ## Active Directory MSSQL Server
+- 
 ## Active Directory Kerberos
+- Kerberoast
+- Kerberos Delegation
+- Silver Tickets
+- Golden Tickets
+- Skeleton Keys
 ## Active Directory Password Attacks
 ### Brute Force AD Services
 ### Crack Windows Active Directory Hashes
@@ -52,6 +61,6 @@ Enumerate without Cretentials
 ## Active Directory Persistence 
 
 ## Active Directory BYODC
-
+## Bypass AMSI
 ## Build Infrastructure to Attack ## Active Directories
 
