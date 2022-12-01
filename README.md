@@ -3,7 +3,7 @@ Active Directory Penetration Testing for Red Teams
 
 Join PopLAbSec Discoord - https://discord.gg/Zmgr8rWMmu
 Join my Discord dedicated tyo Active Directory Attacks: https://discord.gg/VPquyDE3JY
-
+RFS
 
 ## Tools
 
