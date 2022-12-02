@@ -61,6 +61,14 @@ Enumerate without Cretentials
 ## Active Directory Exploits
 - EthernalBlue CVE
 ## Active Directory Lateral Movement
+
+- Windows Services
+- WinRM
+- RDP
+- WMI
+- Webclient
+- CrackMapExec
+
 ## Active Directory Persistence 
 
 ## Active Directory BYODC
