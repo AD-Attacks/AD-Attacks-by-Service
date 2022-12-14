@@ -2,8 +2,7 @@
 Active Directory Penetration Testing for Red Teams
 
 Join PopLAbSec Discoord - https://discord.gg/Zmgr8rWMmu
-Join my Discord dedicated tyo Active Directory Attacks: https://discord.gg/VPquyDE3JY
-RFS
+Join my Discord dedicated tyo (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
 
 ## Tools
 
@@ -11,6 +10,9 @@ RFS
 ## Protocols / Ports
 
 ## Learn Active Directory
+
+
+## Active Directory External Reconnaissance
 
 ## Active Directory Remote Enumeration
 Enumerate without Cretentials
@@ -41,9 +43,10 @@ Enumerate without Cretentials
 ## Active Directory DNS Server
 ## Active Directory Certificates
 ## Active Directory LDAP
+## Active Directory Attacking Federation Services
 ## Active Directory MSSQL Server
 - 
-## Active Directory Kerberos
+## Active Directory Attacking Kerberos
 - Kerberoast
 - Kerberos Delegation
 - Silver Tickets
@@ -74,4 +77,3 @@ Enumerate without Cretentials
 ## Active Directory BYODC
 ## Bypass AMSI
 ## Build Infrastructure to Attack ## Active Directories
-
