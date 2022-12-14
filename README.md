@@ -57,6 +57,7 @@ Enumerate without Credentials
 - Enumerate users
 - Enumerate OUs
 - Enumerate Capabilities
+- Enumerate Forests
 
 
 
@@ -65,6 +66,7 @@ Enumerate without Credentials
 - Brute Force MsSQL
 - RCE trought MsSQL
 - Ghost Table
+- Abuse SQL Trusts
 
 
 ## Active Directory Attacking Kerberos
