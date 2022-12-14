@@ -62,7 +62,11 @@ Enumerate without Credentials
 
 ## Active Directory Attacking Federation Services
 ## Active Directory MSSQL Server
-- 
+- Brute Force MsSQL
+- RCE trought MsSQL
+- Ghost Table
+
+
 ## Active Directory Attacking Kerberos
 - Kerberoast
 - Kerberos Delegation
