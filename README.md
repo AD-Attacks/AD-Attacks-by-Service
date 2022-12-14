@@ -15,7 +15,7 @@ Join my Discord dedicated tyo (Active Directory Attacks by RFS)[https://discord.
 ## Active Directory External Reconnaissance
 
 ## Active Directory Remote Enumeration
-Enumerate without Cretentials
+Enumerate without Credentials
 - Public Shares
 - Null Sessions
 - MiTM / Spoofing
