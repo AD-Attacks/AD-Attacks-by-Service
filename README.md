@@ -39,8 +39,8 @@ Enumerate without Credentials
 - Enumerate Active Sessions
 - Enumerate Groups
 - [Enumerate Domains](https://www.poplabsec.com/active-directory-enumerate-domains/)
-- Enumerate GPOs https://www.poplabsec.com/active-directory-enumerate-group-policy-objects/
-- Enumerate OUs
+- [Enumerate GPOs](https://www.poplabsec.com/active-directory-enumerate-group-policy-objects/) 
+- [Enumerate OUs]
 - Enumerate ACLs
 - Enumerate 
 - Enumerate Forests
