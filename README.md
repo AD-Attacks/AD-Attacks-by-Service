@@ -1,8 +1,8 @@
 # Active-Directory-Penetration-Testing
 Active Directory Penetration Testing for Red Teams
 
-Join PopLAbSec Discoord - https://discord.gg/Zmgr8rWMmu
-Join my Discord dedicated tyo (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
+Join PopLAbSec Discord - https://discord.gg/Zmgr8rWMmu
+Join my Discord dedicated to (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
 
 ## Tools
 
@@ -23,6 +23,13 @@ Enumerate without Credentials
 
 
 ## Active Directory Attacks Theory
+
+### Initial Compromise
+### Host Reconnaissance
+### Host Persistence
+### 
+
+
 
 ## Active Directory Local Enumeration
 - Enumerate Local Users
@@ -87,10 +94,18 @@ Enumerate without Credentials
 
 - Windows Services
 - WinRM
+- PsExec
 - RDP
 - WMI
+- DCOM
 - Webclient
 - CrackMapExec
+
+## Session Passing Techniques
+
+### Beacon Passing
+### Foreign Listener
+### Spawn & Inject
 
 ## Active Directory Persistence 
 
