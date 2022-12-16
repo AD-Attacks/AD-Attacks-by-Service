@@ -37,6 +37,8 @@ Enumerate without Credentials
 - Enumerate Shares
 - Enumerate Password Policies
 - Enumerate Active Sessions
+
+## Active Directory Domain Enumeration
 - Enumerate Groups
 - [Enumerate Domains](https://www.poplabsec.com/active-directory-enumerate-domains/)
 - [Enumerate GPOs](https://www.poplabsec.com/active-directory-enumerate-group-policy-objects/) 
