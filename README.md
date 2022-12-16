@@ -1,8 +1,8 @@
 # Active-Directory-Penetration-Testing
 Active Directory Penetration Testing for Red Teams
 
-Join PopLAbSec Discord - https://discord.gg/Zmgr8rWMmu
-Join my Discord dedicated to (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
+- Join PopLAbSec Discord - https://discord.gg/Zmgr8rWMmu
+- Join my Discord dedicated to (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
 
 ## Tools
 
