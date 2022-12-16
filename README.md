@@ -62,6 +62,10 @@ Enumerate without Credentials
 ## Active Directory Certificates
 
 ## Active Directory LDAP
+
+### Learn LDAP
+
+### Attacj LDAP
 - Enumerate LDAP Service
 - Enumerate users
 - Enumerate OUs
