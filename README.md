@@ -90,7 +90,7 @@ Enumerate without Credentials
 ### Tools
 
 - [MsDAT](https://github.com/quentinhardy/msdat) 
-
+- [Metasploit Modules](https://github.com/quentinhardy/msdat) 
 
 ## Active Directory Attacking Kerberos
 - Kerberoast
