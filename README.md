@@ -82,6 +82,8 @@ Enumerate without Credentials
 
 ## Active Directory Attacking Federation Services
 ## Active Directory MSSQL Server
+
+- [Active Directory MSSQL Server](./MSSQL/index.md) 
 - Brute Force MsSQL
 - RCE trought MsSQL
 - Ghost Table
