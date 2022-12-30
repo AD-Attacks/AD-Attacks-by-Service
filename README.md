@@ -8,6 +8,7 @@ Join my Discord dedicated to (Active Directory Attacks by RFS)[https://discord.g
 ## Learn Active Directory
 
 
+
 ## Active Directory External Reconnaissance
 
 ## Active Directory Remote Enumeration
@@ -28,6 +29,7 @@ Enumerate without Credentials
 
 
 ## Active Directory Local Enumeration
+On this chapter we will learn all about local enumeration inside an Active Directory.
 - Enumerate Local Users
 - Enumerate Domain Users
 - Enumerate Shares
@@ -108,4 +110,25 @@ Enumerate without Credentials
 
 ## Active Directory BYODC
 ## Bypass AMSI
-## Build Infrastructure to Attack ## Active Directories
+## Build Infrastructure to Attack Active Directories
+
+## Default Writeable Folders
+
+C:\Windows\System32\Microsoft\Crypto\RSA\MachineKeys
+C:\Windows\System32\spool\drivers\color
+C:\Windows\System32\spool\printers
+C:\Windows\System32\spool\servers
+C:\Windows\tracing
+C:\Windows\Temp
+C:\Users\Public
+C:\Windows\Tasks
+C:\Windows\System32\tasks
+C:\Windows\SysWOW64\tasks
+C:\Windows\System32\tasks_migrated\microsoft\windows\pls\system
+C:\Windows\SysWOW64\tasks\microsoft\windows\pls\system
+C:\Windows\debug\wia
+C:\Windows\registration\crmlog
+C:\Windows\System32\com\dmp
+C:\Windows\SysWOW64\com\dmp
+C:\Windows\System32\fxstmp
+C:\Windows\SysWOW64\fxstmp
