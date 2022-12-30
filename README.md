@@ -1,8 +1,14 @@
 # Active-Directory-Penetration-Testing
 Active Directory Penetration Testing for Red Teams
 
+<<<<<<< HEAD
+(Join PopLAbSec Discord)[https://discord.gg/Zmgr8rWMmu]
+
+Join my Discord dedicated to (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
+=======
 - Join PopLAbSec Discord - https://discord.gg/Zmgr8rWMmu
 - Join my Discord dedicated to (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
+>>>>>>> a7672ee50df900c96079b368154c70ea25bdf075
 
 ## Tools
 
@@ -80,6 +86,10 @@ Enumerate without Credentials
 - RCE trought MsSQL
 - Ghost Table
 - Abuse SQL Trusts
+
+### Tools
+
+- [MsDAT](https://github.com/quentinhardy/msdat) 
 
 
 ## Active Directory Attacking Kerberos
