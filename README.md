@@ -85,11 +85,7 @@ Enumerate without Credentials
 - [Metasploit Modules](https://github.com/quentinhardy/msdat) 
 
 ## Active Directory Attacking Kerberos
-- Kerberoast
-- Kerberos Delegation
-- Silver Tickets
-- Golden Tickets
-- Skeleton Keys
+- [Kerberos](./Kerberos/index.md) 
 
 
 ## Active Directory and Samba
