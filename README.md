@@ -83,8 +83,7 @@ On this chapter we will learn all about local enumeration inside an Active Direc
 
 ### Tools
 
-- [MsDAT](https://github.com/quentinhardy/msdat) 
-- [Metasploit Modules](https://github.com/quentinhardy/msdat) 
+
 
 ## Active Directory Attacking Kerberos
 - [Kerberos](./Kerberos/index.md) 
