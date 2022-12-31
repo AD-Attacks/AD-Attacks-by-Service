@@ -1,9 +1,10 @@
 # Active-Directory-Penetration-Testing
 Active Directory Penetration Testing for Red Teams
 
+- [Author RFS](https://discord.gg/VPquyDE3JY)
 
-- Join my Discord dedicated to (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
-- Join (PopLabSec Discord)[https://discord.gg/VPquyDE3JY]
+- Join my Discord dedicated to [Active Directory Attacks by RFS](https://discord.gg/VPquyDE3JY)
+- Join [PopLabSec Discord](https://discord.gg/VPquyDE3JY)
 
 ## Learn Active Directory
 
@@ -26,7 +27,7 @@ Enumerate without Credentials
 ### Host Exploiting
 ### Host Persistence
 ### Lateral Movement
-
+- [Lateral Movement](./LateralMovement/index.md)
 
 ## Active Directory Attacks by Service Type
 
@@ -34,9 +35,11 @@ Enumerate without Credentials
 - [MsSQL](./MSSQL/index.md) 
 - [LDAP](./LDAP/index.md)
 - [Kerberos](./Kerberos/index.md)
-- IIS
-- Exchange
-- 
+- [Samba](./Samba/index.md)
+- [IIS](./IIS/index.md)
+- [Exchange](./Exchange/index.md)
+- [WinRM](./WinRM/index.md)
+
 
 ## Active Directory Local Enumeration
 On this chapter we will learn all about local enumeration inside an Active Directory.
@@ -47,14 +50,20 @@ On this chapter we will learn all about local enumeration inside an Active Direc
 - Enumerate Active Sessions
 
 ## Active Directory Domain Enumeration
-- Enumerate Groups
+- [Enumerate Groups]()
 - [Enumerate Domains](https://www.poplabsec.com/active-directory-enumerate-domains/)
 - [Enumerate GPOs](https://www.poplabsec.com/active-directory-enumerate-group-policy-objects/) 
-- [Enumerate OUs]
-- Enumerate ACLs
-- Enumerate 
-- Enumerate Forests
-- Enumerate Anti virus
+- [Enumerate OUs]()
+- [Enumerate ACLs]()
+- [Enumerate]()
+- [Enumerate Forests]()
+- [Enumerate Anti virus]()
+
+## Active Directory Privilege Escalation
+## Active Directory Exploits
+- EthernalBlue CVE
+## Active Directory Lateral Movement
+
 
 
 ## Active Directory Password Attacks
@@ -72,12 +81,7 @@ On this chapter we will learn all about local enumeration inside an Active Direc
 
 
 
-## Active Directory Privilege Escalation
-## Active Directory Exploits
-- EthernalBlue CVE
-## Active Directory Lateral Movement
 
-- [Lateral Movement](./LateralMovement/index.md) 
 
 ## Session Passing Techniques
 
