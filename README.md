@@ -3,7 +3,7 @@ Active Directory Penetration Testing for Red Teams
 
 
 Join my Discord dedicated to (Active Directory Attacks by RFS)[https://discord.gg/VPquyDE3JY]
-
+Join (PopLabSec Discord)[https://discord.gg/VPquyDE3JY]
 
 ## Learn Active Directory
 
@@ -23,10 +23,17 @@ Enumerate without Credentials
 
 ### Initial Compromise
 ### Host Reconnaissance
+### Host Exploiting
 ### Host Persistence
-### 
+### Lateral Movement
 
 
+## Active Directory Attacks by Service Type
+
+- DNS
+- MsSQL
+- LDAP
+- Kerberos
 
 ## Active Directory Local Enumeration
 On this chapter we will learn all about local enumeration inside an Active Directory.
