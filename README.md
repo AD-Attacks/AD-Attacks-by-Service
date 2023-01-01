@@ -8,7 +8,10 @@ Active Directory Penetration Testing for Red Teams
 
 ## Learn Active Directory
 
+## Scenarios
 
+### Windows Client
+### Windows Client with AD
 
 ## Active Directory External Reconnaissance
 
@@ -35,12 +38,13 @@ Active Directory Penetration Testing for Red Teams
 - [WinRM](./WinRM/index.md)
 
 
-## My Tools Arsenal
+## My Tools Arsenal Documentation
 - [Nmap]()
-- [CrackMapExec]()
+- [CrackMapExec](https://crackmapexec.popdocs.net/)
 - [Rubeus]()
 - [Certify]()
-- [BloodHound]()
+- [Mimikatz]()
+- [BloodHound](https://bloodhound.popdocs.net/)
 - [DeathStar]()
 - [Metasploit]()
 - [Empire]()
