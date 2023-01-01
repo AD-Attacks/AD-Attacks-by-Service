@@ -35,6 +35,17 @@ Active Directory Penetration Testing for Red Teams
 - [WinRM](./WinRM/index.md)
 
 
+## My Tools Arsenal
+- [Nmap]()
+- [CrackMapExec]()
+- [Rubeus]()
+- [Certify]()
+- [BloodHound]()
+- [DeathStar]()
+- [Metasploit]()
+- [Empire]()
+- [Covenant]()
+- [Cobal Strike]()
 
 
 ## Windows Privilege Escalation
