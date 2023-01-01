@@ -14,7 +14,7 @@
       * [2.1.1. Not so basic text formatting](#heading--2-1-1)
 
   * [2.2. Windows Services](#heading--2-2)
-  * [2.3. Using RDP](#heading--2-3)
+  * [2.3. Abusing Remote Desktop Protocol - RDP](#heading--2-3)
 
 ----
 https://ad.popdocs.net/LateralMovement/
@@ -68,7 +68,8 @@ $sess = New-PSSession -ComputerName <Name>
 Enter-PSSession -ComputerName <Name> OR -Sessions <SessionName>
 ```
 
-## Lateral Movement usind RDP
+## Abusing Remote Desktop Protocol - RDP
+
 If we have a NTLM hash we can have an RDP session
 
 ### xFreeRDP
