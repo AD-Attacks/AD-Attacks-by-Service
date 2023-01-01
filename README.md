@@ -30,7 +30,7 @@ Enumerate without Credentials
 - [Lateral Movement](./LateralMovement/index.md)
 
 ## Active Directory Attacks by Service Type
-
+- []()
 - [DNS](./DNS/index.md) 
 - [MsSQL](./MSSQL/index.md) 
 - [LDAP](./LDAP/index.md)
@@ -62,6 +62,8 @@ On this chapter we will learn all about local enumeration inside an Active Direc
 ## Active Directory Privilege Escalation
 ## Active Directory Exploits
 - EthernalBlue CVE
+- []()
+- []()
 ## Active Directory Lateral Movement
 
 
@@ -92,5 +94,5 @@ On this chapter we will learn all about local enumeration inside an Active Direc
 ## Active Directory Persistence 
 
 ## Active Directory BYODC
-## Bypass AMSI
+
 ## Build Infrastructure to Attack Active Directories
