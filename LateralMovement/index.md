@@ -7,7 +7,7 @@
   * [1.1. Understand Lateral Movement in Windows](#heading--1-1)
   * [1.2. What can we use to Move laterally?](#heading--1-2)
 
-**[2. BBCode formatting](#heading--2)**
+**[2. Move laterally](#heading--2)**
 
   * [2.1. Basic text formatting](#heading--2-1)
 
