@@ -38,7 +38,7 @@ $sess = New-PSSession -ComputerName <Name>
 Enter-PSSession -ComputerName <Name> OR -Sessions <SessionName>
 ```
 
-```
+```powershell
 $sess = New-PSSession -ComputerName <Name>
 Enter-PSSession -ComputerName <Name> OR -Sessions <SessionName>
 ```
@@ -53,7 +53,7 @@ xfreerdp  +compression +clipboard /dynamic-resolution +toggle-fullscreen /cert-i
 ```
 
 
-```
+```powershell
 $sess = New-PSSession -ComputerName <Name>
 Enter-PSSession -ComputerName <Name> OR -Sessions <SessionName>
 ```
