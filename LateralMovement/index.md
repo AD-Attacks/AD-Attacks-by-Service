@@ -9,15 +9,15 @@
 
 **[2. Move laterally](#heading--2)**
 
-  * [2.1. Basic text formatting](#heading--2-1)
+  * [2.1. Using PowerShell](#powershell-remoting)
 
       * [2.1.1. Not so basic text formatting](#heading--2-1-1)
 
-  * [2.2. Lists, Images, Code](#heading--2-2)
-  * [2.3. Special features](#heading--2-3)
+  * [2.2. Windows Services](#heading--2-2)
+  * [2.3. Using RDP](#heading--2-3)
 
 ----
-
+https://ad.popdocs.net/LateralMovement/
 # Active Directory Lateral Movement
 
 | TTP         | Description |
