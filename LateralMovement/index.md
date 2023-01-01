@@ -18,7 +18,7 @@
 ## PowerShell Remoting
 #Enable PowerShell Remoting on current Machine (Needs Admin Access)
 
-'''Enable-PSRemoting'''
+''' Enable-PSRemoting '''
 
 #Entering or Starting a new PSSession (Needs Admin Access)
 $sess = New-PSSession -ComputerName <Name>
