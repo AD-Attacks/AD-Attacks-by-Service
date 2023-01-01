@@ -1,3 +1,9 @@
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 # Active Directory - LDAP Penetration Testing
 
 ## Learn LDAP
