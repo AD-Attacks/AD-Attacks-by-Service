@@ -63,4 +63,14 @@ https://raw.githubusercontent.com/rfs85/Index/main/images/Active%20Directory%20P
 
 ## Windows Privilege Escalation
 
+
 ## Domain Privilege Escalation
+
+- Attack Privilege Requirements
+- Kerbrute Enumeration — No domain access required
+- Pass the Ticket — Access as a user to the domain required
+- Kerberoasting — Access as any user required
+- AS-REP Roasting — Access as any user required
+- Golden Ticket — Full domain compromise (Domain Admin) required
+- Silver Ticket — Service hash required
+- Skeleton Key — Full domain compromise (Domain Admin) required
