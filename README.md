@@ -1,9 +1,9 @@
 # Active-Directory-Penetration-Testing
 Active Directory Penetration Testing for Red Teams
+![Active Directory Penetration Testing!](https://raw.githubusercontent.com/rfs85/Index/main/images/Active%20Directory%20Penetration%20Testing.png "Active Directory Penetration Testing")
 
 - [Author RFS](https://discord.gg/VPquyDE3JY)
-
-- Join my Discord dedicated to [Active Directory Attacks by RFS](https://discord.gg/VPquyDE3JY)
+https://raw.githubusercontent.com/rfs85/Index/main/images/Active%20Directory%20Penetration%20Testing.png- Join my Discord dedicated to [Active Directory Attacks by RFS](https://discord.gg/VPquyDE3JY)
 - Join [PopLabSec Discord](https://discord.gg/VPquyDE3JY)
 
 ## More Documentation
