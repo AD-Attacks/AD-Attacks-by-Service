@@ -1,6 +1,6 @@
 # Active-Directory-Penetration-Testing
 Active Directory Penetration Testing for Red Teams
-![Active Directory Penetration Testing!](https://cdn.ad-attacks.com/ActiveDirectoryPenetrationTesting.png "Active Directory Penetration Testing")
+![Active Directory Penetration Testing!](https://cdn.ad-attacks.com/Active-Directory-Attacks.png "Active Directory Penetration Testing")
 
 - [Author RFS](https://discord.gg/VPquyDE3JY)
 - Join my Discord dedicated to [Active Directory Attacks by RFS](https://discord.gg/VPquyDE3JY)
