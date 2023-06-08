@@ -3,8 +3,6 @@ Active Directory Penetration Testing for Red Teams
 ![Active Directory Penetration Testing!](https://cdn.ad-attacks.com/Active-Directory-Attacks.png "Active Directory Penetration Testing")
 
 - [Author RFS](https://discord.gg/VPquyDE3JY)
-- Join my Discord dedicated to [Active Directory Attacks by RFS](https://discord.gg/VPquyDE3JY)
-- Join [PopLabSec Discord](https://discord.gg/VPquyDE3JY)
 
 ## More Documentation
 
@@ -26,6 +24,14 @@ Active Directory Penetration Testing for Red Teams
 <a href="https://discord.gg/vk2JQaneUQ"><img src="https://discordapp.com/api/guilds/1040710660620816506/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
 <a href="https://discord.gg/T3NYGA7yFU"><img src="https://discordapp.com/api/guilds/955583027973607515/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
 <br>
+
+## Certifications Guides
+
+
+- [CRTO-Exam-Guide](https://github.com/PopLabSec/CRTO-Exam-Guide)
+- [OSCP Study Guide 2023](https://github.com/PopLabSec/OSCP-Study-Guide-2023)
+- [eJPT Study Guide](https://github.com/PopLabSec/eJPT-Study-Guide)
+- [eCPPTv2 AIO](https://github.com/PopLabSec/eCPPTv2-AIO)
 
 
 ## Learn Active Directory
