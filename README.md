@@ -17,9 +17,8 @@ Remember, a well-informed defender is better equipped to safeguard their Active 
 
 Happy learning and stay secure!
 
-![Active Directory Attacks](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
-- html image
-<img src="https://cdn.ad-attacks.com/Active-Directory-Attacks.png" alt="Image Alt Text" style="width:300px;height:200px;">
+
+<img src="https://cdn.ad-attacks.com/Active-Directory-Attacks.png" alt="Image Alt Text" style="width:1080px;height:720px;">
 
 
 
