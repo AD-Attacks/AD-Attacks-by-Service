@@ -10,6 +10,10 @@ Here are some of my notable projects:
 - [PopLabSec](https://github.com/username/project1): Description of Project 1.
 - [AD Attacks](https://github.com/username/project2): Description of Project 2.
 - [Offensive Wireless](https://github.com/username/project3): Description of Project 3.
+- [IoT Hacking 101](https://github.com/username/project3): Description of Project 3.
+- [TelcoSec](https://github.com/username/project3): Description of Project 3.
+- [PopLAb Linux](https://github.com/username/project3): Description of Project 3.
+- [PopDocs](https://github.com/username/project3): Description of Project 3.
 
 Feel free to explore these projects and provide any feedback or suggestions.
 
