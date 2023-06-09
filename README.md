@@ -26,7 +26,7 @@ I look forward to hearing from you!
 
 <div class="card">
 
-![Image Alt Text](https://example.com/image.jpg)
+![Image Alt Text](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
 
 **Card Title**
 
