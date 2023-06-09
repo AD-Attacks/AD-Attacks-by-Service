@@ -46,7 +46,7 @@ Happy learning and stay secure!
 
 ## Active Directory External Reconnaissance
 
-
+Active Directory (AD) External Reconnaissance is a methodology used to gather information and assess the security posture of an organization's Active Directory infrastructure from an external perspective. 
 
 ## Active Directory Attacks Theory
 
