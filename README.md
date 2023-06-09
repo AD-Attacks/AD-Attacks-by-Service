@@ -69,26 +69,24 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 | [WinRM](./WinRM/index.md) | Cell 8   | Cell 9   |
 | [SCCM](./SCCM/index.md) | Cell 8   | Cell 9   |
 
+## My Tools Arsenal Documentation
 
 | Tool    | Description | Documentation     |
 | ------- | --- | ------------ |
-| [Nmap]()    | 25  | [Nmap]()     |
-| [CrackMapExec](https://crackmapexec.popdocs.net/)   | 30  | [CrackMapExec](https://crackmapexec.popdocs.net/)  |
-| [Rubeus]()   | 40  | [Rubeus]()       |
-
-
-## My Tools Arsenal Documentation
-
-
-- [Certify]()
-- [Mimikatz]()
-- [BloodHound](https://bloodhound.popdocs.net/)
-- [DeathStar]()
-- [Metasploit]()
-- [Empire]()
-- [Covenant]()
-- [Cobal Strike]()
-
+| Nmap    | 25  | [Nmap]()     |
+| CrackMapExec   | 30  | [CrackMapExec](https://crackmapexec.popdocs.net/)  |
+| Rubeus   | 40  | [Rubeus]()       |
+| Certify | Text | [Certify]() |
+| Mimikatz | Text | [Mimikatz]() |
+| BloodHound | Text | [BloodHound](https://bloodhound.popdocs.net/) |
+| DeathStar | Text | [DeathStar]() |
+| Metasploit | Text | [Metasploit]() |
+| Empire | Text | [Empire]() |
+| Covenant | Text | [Covenant]() |
+| Cobal Strike | Text | [Cobal Strike]() |
+| Tool | Text | Docs |
+| Tool | Text | Docs |
+| Tool | Text | Docs |
 
 ## Windows Privilege Escalation
 
