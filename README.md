@@ -8,7 +8,7 @@ This documentation serves as a comprehensive resource for understanding various 
 
 In this documentation, you will find detailed explanations of different attack techniques employed by malicious actors to compromise Active Directory infrastructures. We cover well-known techniques such as Pass-the-Hash, Golden Ticket, Kerberoasting, and more. Each attack technique is accompanied by a description, potential impact, detection methods, and recommended mitigation strategies.
 
-![Active Directory Attacks]([https://cdn.ad-attacks.com/Active-Directory-Attacks.png])
+![Active Directory Attacks](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
 
 Our aim is to help you understand the inner workings of these attacks, enabling you to identify vulnerabilities within your own Active Directory environment and implement effective security measures to protect against them. Additionally, we provide real-world examples and practical guidance to enhance your understanding of the attack vectors and their implications.
 
