@@ -16,34 +16,9 @@ Remember, a well-informed defender is better equipped to safeguard their Active 
 
 Happy learning and stay secure!
 
+![Active Directory Attacks](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
 
-## Projects
-Here are some of my notable projects:
-
-- [PopLabSec](https://github.com/username/project1): Description of Project 1.
-- [AD Attacks](https://github.com/username/project2): Description of Project 2.
-- [Offensive Wireless](https://github.com/username/project3): Description of Project 3.
-- [IoT Hacking 101](https://github.com/username/project3): Description of Project 3.
-- [TelcoSec](https://github.com/username/project3): Description of Project 3.
-- [PopLAb Linux](https://github.com/username/project3): Description of Project 3.
-- [PopDocs](https://github.com/username/project3): Description of Project 3.
-
-Feel free to explore these projects and provide any feedback or suggestions.
-
-## Contact
-You can reach out to me through the following channels:
-
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-
-I look forward to hearing from you!
-
-<div class="card">
-
-![Image Alt Text](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
-
-**Card Title**
+**Active Directory Attacks**
 
 Card description goes here. You can provide more details about the card content, such as features or key points.
 
@@ -53,7 +28,7 @@ Card description goes here. You can provide more details about the card content,
 
 [Button Text](https://example.com)
 
-</div>
+
 
 
 # Active-Directory-Penetration-Testing
@@ -62,57 +37,26 @@ Active Directory Penetration Testing for Red Teams
 
 - [Author RFS](https://author.popdocs.net/)
 
-## More Documentation
-
-- [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
-- [Infrastructure Penetration Testing]()
-- [Networks Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
-- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
-- [Wireless Security](https://www.offensive-wireless.com/)
-- [Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
-
-
-<div class="tabs">
-  <input type="radio" id="tab1" name="tabs" checked>
-  <label for="tab1">Tab 1</label>
-  
-  <input type="radio" id="tab2" name="tabs">
-  <label for="tab2">Tab 2</label>
-  
-  <input type="radio" id="tab3" name="tabs">
-  <label for="tab3">Tab 3</label>
-  
-  <div class="tab-content">
-    <h3>Tab 1 Content</h3>
-    <p>This is the content of Tab 1.</p>
-  </div>
-  
-  <div class="tab-content">
-    <h3>Tab 2 Content</h3>
-    <p>This is the content of Tab 2.</p>
-  </div>
-  
-  <div class="tab-content">
-    <h3>Tab 3 Content</h3>
-    <p>This is the content of Tab 3.</p>
-  </div>
-</div>
-
-## Certifications Guides
-
-
-- [CRTO-Exam-Guide](https://github.com/PopLabSec/CRTO-Exam-Guide)
-- [OSCP Study Guide 2023](https://github.com/PopLabSec/OSCP-Study-Guide-2023)
-- [eJPT Study Guide](https://github.com/PopLabSec/eJPT-Study-Guide)
-- [eCPPTv2 AIO](https://github.com/PopLabSec/eCPPTv2-AIO)
 
 
 ## Learn Active Directory
 
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
+| Cell 7   | Cell 8   | Cell 9   |
+
+
 ## Scenarios
 
-### Windows Client
-### Windows Client with AD
+| Scenario | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Windows Client   | Cell 2   | Cell 3   |
+| Windows Client with AD   | Cell 5   | Cell 6   |
+| Windows Server Standalone   | Cell 8   | Cell 9   |
+| Windows Server with AD   | Cell 8   | Cell 9   |
+
 
 ## Active Directory External Reconnaissance
 
@@ -167,7 +111,7 @@ Active Directory Penetration Testing for Red Teams
 - Silver Ticket — Service hash required
 - Skeleton Key — Full domain compromise (Domain Admin) required
 
-
+## AD Attacks
 | Attack Technique        | Description                                                                                                                                                                       |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pass-the-Hash          | An attack where an attacker steals the hash of a user's password and uses it to authenticate and impersonate the user.                                                           |
@@ -177,3 +121,37 @@ Active Directory Penetration Testing for Red Teams
 | DCShadow               | An attack that manipulates domain controllers to create a rogue domain controller, allowing attackers to stealthily inject changes into the Active Directory infrastructure.           |
 | Skeleton Key           | A technique that allows an attacker to bypass authentication by injecting a backdoor password into Active Directory, granting them unauthorized access.                          |
 | Silver Ticket          | Similar to a Golden Ticket, but instead of compromising the Key Distribution Center (KDC), it targets specific service principals, granting unauthorized access to specific services. |
+
+## Projects
+Here are some of my notable projects:
+
+- [PopLabSec](https://github.com/username/project1): Description of Project 1.
+- [AD Attacks](https://github.com/username/project2): Description of Project 2.
+- [Offensive Wireless](https://github.com/username/project3): Description of Project 3.
+- [IoT Hacking 101](https://github.com/username/project3): Description of Project 3.
+- [TelcoSec](https://github.com/username/project3): Description of Project 3.
+- [PopLAb Linux](https://github.com/username/project3): Description of Project 3.
+- [PopDocs](https://github.com/username/project3): Description of Project 3.
+
+Feel free to explore these projects and provide any feedback or suggestions.
+
+
+## More Documentation
+
+- [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
+- [Infrastructure Penetration Testing]()
+- [Networks Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
+- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
+- [Wireless Security](https://www.offensive-wireless.com/)
+- [Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
+
+
+
+
+## Certifications Guides
+
+
+- [CRTO-Exam-Guide](https://github.com/PopLabSec/CRTO-Exam-Guide)
+- [OSCP Study Guide 2023](https://github.com/PopLabSec/OSCP-Study-Guide-2023)
+- [eJPT Study Guide](https://github.com/PopLabSec/eJPT-Study-Guide)
+- [eCPPTv2 AIO](https://github.com/PopLabSec/eCPPTv2-AIO)
