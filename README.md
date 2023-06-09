@@ -22,11 +22,6 @@ Happy learning and stay secure!
 
 
 
-
-# Active-Directory-Penetration-Testing
-Active Directory Penetration Testing for Red Teams
-
-
 - [Author RFS](https://author.popdocs.net/)
 
 
@@ -40,15 +35,16 @@ Active Directory Penetration Testing for Red Teams
 | Cell 7   | Cell 8   | Cell 9   |
 
 
-## Scenarios
+## Attack Scenarios
 
-| Scenario | Header 2 | Header 3 |
+| Scenario | Description | LAB design |
 | -------- | -------- | -------- |
 | Windows Client   | Cell 2   | Cell 3   |
 | Windows Client with AD   | Cell 5   | Cell 6   |
 | Windows Server Standalone   | Cell 8   | Cell 9   |
 | Windows Server with AD   | Cell 8   | Cell 9   |
-
+| Active Direcory Environment  | Cell 8   | Cell 9   |
+| Active Direcory Multi Forest Environment  | Cell 8   | Cell 9   |
 
 ## Active Directory External Reconnaissance
 
@@ -64,16 +60,21 @@ Active Directory Penetration Testing for Red Teams
 
 ## Active Directory Attacks by Service Type (Protocol)
 
-- [NetBIOS](./NetBIOS)
-- [DNS](./DNS/index.md) 
-- [MsSQL](./MSSQL/index.md) 
-- [LDAP](./LDAP/index.md)
-- [Kerberos](./Kerberos/index.md)
-- [Samba](./Samba/index.md)
-- [IIS](./IIS/index.md)
-- [Exchange](./Exchange/index.md)
-- [WinRM](./WinRM/index.md)
-- [SCCM](./SCCM/index.md)
+| Protocol | Port | Description |
+| -------- | -------- | -------- |
+| [NetBIOS](./NetBIOS)   | Cell 2   | Cell 3   |
+| [DNS](./DNS/index.md)  | Cell 5   | Cell 6   |
+| [MsSQL](./MSSQL/index.md)  | Cell 8   | Cell 9   |
+| [LDAP](./LDAP/index.md)  | Cell 8   | Cell 9   |
+| [Kerberos](./Kerberos/index.md)  | Cell 8   | Cell 9   |
+| [Samba](./Samba/index.md)  | Cell 8   | Cell 9   |
+| [IIS](./IIS/index.md) | Cell 8   | Cell 9   |
+| [Exchange](./Exchange/index.md)  | Cell 8   | Cell 9   |
+| [WinRM](./WinRM/index.md) | Cell 8   | Cell 9   |
+| [SCCM](./SCCM/index.md) | Cell 8   | Cell 9   |
+
+
+
 
 ## My Tools Arsenal Documentation
 - [Nmap]()
