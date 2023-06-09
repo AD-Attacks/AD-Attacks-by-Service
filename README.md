@@ -1,10 +1,8 @@
-[Home](#home) | [About](#about) | [Projects](#projects) | [Contact](#contact)
+[Home](home) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)
 
 ## Home
 Active Directory Penetration Testing for Red Teams
 
-## About
-I am a passionate developer interested in various technologies and programming languages. I love building innovative projects and exploring new ideas.
 
 ## Projects
 Here are some of my notable projects:
