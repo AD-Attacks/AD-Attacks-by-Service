@@ -1,4 +1,4 @@
-[Home](home) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)| [Author](./website/Author.md)
+[Home](https://docs.ad-attacks.com) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)| [Author](./website/Author.md)
 
 ## Home
 Active Directory Penetration Testing for Red Teams
@@ -59,16 +59,31 @@ Active Directory Penetration Testing for Red Teams
 - [Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
 
 
-## 🐦 Discord Servers
-<a href="https://discord.gg/H46uHvSZne"><img src="https://discordapp.com/api/guilds/894273981606150224/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<a href="https://discord.gg/Sft2dnyj6Z"><img src="https://discordapp.com/api/guilds/880193638414565427/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<br>
-<a href="https://discord.gg/vk2JQaneUQ"><img src="https://discordapp.com/api/guilds/1040697202902839317/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<a href="https://discord.gg/mJ8Wy8yJEw"><img src="https://discordapp.com/api/guilds/1055301414265569360/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<br>
-<a href="https://discord.gg/vk2JQaneUQ"><img src="https://discordapp.com/api/guilds/1040710660620816506/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<a href="https://discord.gg/T3NYGA7yFU"><img src="https://discordapp.com/api/guilds/955583027973607515/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
-<br>
+<div class="tabs">
+  <input type="radio" id="tab1" name="tabs" checked>
+  <label for="tab1">Tab 1</label>
+  
+  <input type="radio" id="tab2" name="tabs">
+  <label for="tab2">Tab 2</label>
+  
+  <input type="radio" id="tab3" name="tabs">
+  <label for="tab3">Tab 3</label>
+  
+  <div class="tab-content">
+    <h3>Tab 1 Content</h3>
+    <p>This is the content of Tab 1.</p>
+  </div>
+  
+  <div class="tab-content">
+    <h3>Tab 2 Content</h3>
+    <p>This is the content of Tab 2.</p>
+  </div>
+  
+  <div class="tab-content">
+    <h3>Tab 3 Content</h3>
+    <p>This is the content of Tab 3.</p>
+  </div>
+</div>
 
 ## Certifications Guides
 
