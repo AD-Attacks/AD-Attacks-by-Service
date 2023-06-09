@@ -75,9 +75,36 @@
     .cta-button:hover {
       background-color: #0c0;
     }
+    ul.menu {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    ul.menu li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+
+    ul.menu li a {
+      text-decoration: none;
+      color: #333;
+      padding: 5px 10px;
+    }
+
+    ul.menu li a:hover {
+      background-color: #333;
+      color: #fff;
+    }
   </style>
 </head>
 <body>
+  <ul class="menu">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
   <div class="container">
     <h1>Welcome to Our Hacking Scene</h1>
     <p>We're showcasing a fictional hacking scenario for educational purposes.</p>
