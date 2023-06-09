@@ -33,7 +33,7 @@ Happy learning and stay secure!
 | Cell 7   | Cell 8   | Cell 9   |
 
 
-## Attack Scenarios
+## Windows Attack Scenarios
 
 | Scenario | Description | LAB design |
 | -------- | -------- | -------- |
