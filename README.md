@@ -1,12 +1,13 @@
 [Home](https://docs.ad-attacks.com) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)| [Author](./website/Author.md)
 
-## Home
+# Active Directory Penetration Testing
 
 Welcome to the Active Directory Attacks Documentation for Red Teams!
 
 This documentation serves as a comprehensive resource for understanding various attack techniques and vulnerabilities associated with Active Directory environments. Whether you are a security professional, system administrator, or simply interested in learning about cybersecurity, this documentation will provide valuable insights into the risks and countermeasures related to Active Directory attacks.
 
 In this documentation, you will find detailed explanations of different attack techniques employed by malicious actors to compromise Active Directory infrastructures. We cover well-known techniques such as Pass-the-Hash, Golden Ticket, Kerberoasting, and more. Each attack technique is accompanied by a description, potential impact, detection methods, and recommended mitigation strategies.
+![Active Directory Penetration Testing!](https://cdn.ad-attacks.com/Active-Directory-Attacks.png "Active Directory Penetration Testing")
 
 Our aim is to help you understand the inner workings of these attacks, enabling you to identify vulnerabilities within your own Active Directory environment and implement effective security measures to protect against them. Additionally, we provide real-world examples and practical guidance to enhance your understanding of the attack vectors and their implications.
 
@@ -17,23 +18,15 @@ Remember, a well-informed defender is better equipped to safeguard their Active 
 Happy learning and stay secure!
 
 ![Active Directory Attacks](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
-
-**Active Directory Attacks**
-
-Card description goes here. You can provide more details about the card content, such as features or key points.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-[Button Text](https://example.com)
+- html image
+<img src="https://cdn.ad-attacks.com/Active-Directory-Attacks.png" alt="Image Alt Text" style="width:300px;height:200px;">
 
 
 
 
 # Active-Directory-Penetration-Testing
 Active Directory Penetration Testing for Red Teams
-![Active Directory Penetration Testing!](https://cdn.ad-attacks.com/Active-Directory-Attacks.png "Active Directory Penetration Testing")
+
 
 - [Author RFS](https://author.popdocs.net/)
 
