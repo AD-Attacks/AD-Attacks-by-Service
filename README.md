@@ -50,11 +50,11 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 
 ## Active Directory Attacks Theory
 
-### Initial Compromise
-### Host Reconnaissance
-### Host Exploiting
-### Host Persistence
-### Lateral Movement
+- Initial Compromise
+- Host Reconnaissance
+- Host Exploiting
+- Host Persistence
+- Lateral Movement
 
 ## Active Directory Attacks by Service Type (Protocol)
 
