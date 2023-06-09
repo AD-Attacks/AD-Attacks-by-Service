@@ -6,11 +6,10 @@ Welcome to the Active Directory Attacks Documentation for Red Teams!
 
 This documentation serves as a comprehensive resource for understanding various attack techniques and vulnerabilities associated with Active Directory environments. Whether you are a security professional, system administrator, or simply interested in learning about cybersecurity, this documentation will provide valuable insights into the risks and countermeasures related to Active Directory attacks.
 
+![Active Directory Attacks](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
 In this documentation, you will find detailed explanations of different attack techniques employed by malicious actors to compromise Active Directory infrastructures. We cover well-known techniques such as Pass-the-Hash, Golden Ticket, Kerberoasting, and more. Each attack technique is accompanied by a description, potential impact, detection methods, and recommended mitigation strategies.
 
-![Active Directory Attacks](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
-
-Our aim is to help you understand the inner workings of these attacks, enabling you to identify vulnerabilities within your own Active Directory environment and implement effective security measures to protect against them. Additionally, we provide real-world examples and practical guidance to enhance your understanding of the attack vectors and their implications.
+My aim is to help you understand the inner workings of these attacks, enabling you to identify vulnerabilities within your own Active Directory environment and implement effective security measures to protect against them. Additionally, we provide real-world examples and practical guidance to enhance your understanding of the attack vectors and their implications.
 
 We encourage you to explore the various sections of this documentation, where you will find detailed explanations, step-by-step guides, and recommended best practices to secure your Active Directory infrastructure. Stay one step ahead of potential threats and bolster your organization's security posture with the knowledge gained from this documentation.
 
@@ -18,9 +17,6 @@ Remember, a well-informed defender is better equipped to safeguard their Active 
 
 Happy learning and stay secure!
 
-https://cdn.ad-attacks.com/Active-Directory-Attacks.png
-
-https://cdn.ad-attacks.com/Active-Directory-Attacks.png
 
 - [Author RFS](https://author.popdocs.net/)
 
@@ -74,12 +70,16 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 | [SCCM](./SCCM/index.md) | Cell 8   | Cell 9   |
 
 
+| Tool    | Description | Documentation     |
+| ------- | --- | ------------ |
+| [Nmap]()    | 25  | [Nmap]()     |
+| [CrackMapExec](https://crackmapexec.popdocs.net/)   | 30  | [CrackMapExec](https://crackmapexec.popdocs.net/)  |
+| [Rubeus]()   | 40  | [Rubeus]()       |
 
 
 ## My Tools Arsenal Documentation
-- [Nmap]()
-- [CrackMapExec](https://crackmapexec.popdocs.net/)
-- [Rubeus]()
+
+
 - [Certify]()
 - [Mimikatz]()
 - [BloodHound](https://bloodhound.popdocs.net/)
