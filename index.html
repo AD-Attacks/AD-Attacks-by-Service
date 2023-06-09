@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hacker Landing Page</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    h1 {
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 20px;
+      margin-bottom: 40px;
+    }
+
+    .code {
+      font-family: 'Courier New', Courier, monospace;
+      background-color: #222;
+      color: #0f0;
+      padding: 20px;
+      font-size: 18px;
+      border-radius: 5px;
+      margin-bottom: 40px;
+    }
+
+    .animation {
+      width: 300px;
+      height: 300px;
+      background-image: url('hacker.gif');
+      background-size: cover;
+      background-repeat: no-repeat;
+      margin-bottom: 40px;
+    }
+
+    .form-container {
+      margin-bottom: 40px;
+    }
+
+    .form-input {
+      padding: 10px 20px;
+      font-size: 16px;
+      border-radius: 5px;
+      border: none;
+      margin-bottom: 10px;
+      width: 300px;
+    }
+
+    .cta-button {
+      background-color: #0f0;
+      color: #000;
+      border: none;
+      padding: 10px 20px;
+      font-size: 18px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .cta-button:hover {
+      background-color: #0c0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Welcome to Our Hacking Scene</h1>
+    <p>We're showcasing a fictional hacking scenario for educational purposes.</p>
+    <div class="code">
+      &lt;span class=&quot;hack-progress&quot;&gt;&lt;/span&gt;
+      <br>
+      &lt;span class=&quot;hack-complete&quot;&gt;Hacking complete! Access granted.&lt;/span&gt;
+    </div>
+    <div class="animation"></div>
+    <div class="form-container">
+      <form>
+        <input type="text" class="form-input" placeholder="Username">
+        <input type="password" class="form-input" placeholder="Password">
+      </form>
+    </div>
+    <button class="cta-button">Enter</button>
+  </div>
+
+  <script>
+    document.querySelector('.cta-button').addEventListener('click', function() {
+      alert('You have entered the world of hacking!');
+      // Additional actions to be performed upon entering the hacking scene
+    });
+  </script>
+</body>
+</html>
+
