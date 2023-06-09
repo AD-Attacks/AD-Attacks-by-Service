@@ -115,18 +115,6 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 | Skeleton Key           | A technique that allows an attacker to bypass authentication by injecting a backdoor password into Active Directory, granting them unauthorized access.                          |
 | Silver Ticket          | Similar to a Golden Ticket, but instead of compromising the Key Distribution Center (KDC), it targets specific service principals, granting unauthorized access to specific services. |
 
-## Projects
-Here are some of my notable projects:
-
-- [PopLabSec](https://github.com/username/project1): Description of Project 1.
-- [AD Attacks](https://github.com/username/project2): Description of Project 2.
-- [Offensive Wireless](https://github.com/username/project3): Description of Project 3.
-- [IoT Hacking 101](https://github.com/username/project3): Description of Project 3.
-- [TelcoSec](https://github.com/username/project3): Description of Project 3.
-- [PopLAb Linux](https://github.com/username/project3): Description of Project 3.
-- [PopDocs](https://github.com/username/project3): Description of Project 3.
-
-Feel free to explore these projects and provide any feedback or suggestions.
 
 
 ## More Documentation
