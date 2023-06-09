@@ -7,8 +7,7 @@ Welcome to the Active Directory Attacks Documentation for Red Teams!
 This documentation serves as a comprehensive resource for understanding various attack techniques and vulnerabilities associated with Active Directory environments. Whether you are a security professional, system administrator, or simply interested in learning about cybersecurity, this documentation will provide valuable insights into the risks and countermeasures related to Active Directory attacks.
 
 In this documentation, you will find detailed explanations of different attack techniques employed by malicious actors to compromise Active Directory infrastructures. We cover well-known techniques such as Pass-the-Hash, Golden Ticket, Kerberoasting, and more. Each attack technique is accompanied by a description, potential impact, detection methods, and recommended mitigation strategies.
-![Active Directory Penetration Testing!](https://cdn.ad-attacks.com/Active-Directory-Attacks.png "Active Directory Penetration Testing")
-
+<img src="https://cdn.ad-attacks.com/Active-Directory-Attacks.png" alt="Active Directory Attacks" >
 Our aim is to help you understand the inner workings of these attacks, enabling you to identify vulnerabilities within your own Active Directory environment and implement effective security measures to protect against them. Additionally, we provide real-world examples and practical guidance to enhance your understanding of the attack vectors and their implications.
 
 We encourage you to explore the various sections of this documentation, where you will find detailed explanations, step-by-step guides, and recommended best practices to secure your Active Directory infrastructure. Stay one step ahead of potential threats and bolster your organization's security posture with the knowledge gained from this documentation.
@@ -18,7 +17,6 @@ Remember, a well-informed defender is better equipped to safeguard their Active 
 Happy learning and stay secure!
 
 
-<img src="https://cdn.ad-attacks.com/Active-Directory-Attacks.png" alt="Image Alt Text" style="width:1080px;height:720px;">
 
 
 
@@ -103,6 +101,9 @@ Happy learning and stay secure!
 - Golden Ticket — Full domain compromise (Domain Admin) required
 - Silver Ticket — Service hash required
 - Skeleton Key — Full domain compromise (Domain Admin) required
+
+<img src="https://cdn.ad-attacks.com/Active-Directory-Attacks.png" alt="Active Directory Attacks" style="width:1080px;height:720px;">
+
 
 ## AD Attacks
 | Attack Technique        | Description                                                                                                                                                                       |
