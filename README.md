@@ -1,4 +1,4 @@
-[Home](home) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)
+[Home](home) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)| [Author](./website/Author.md)
 
 ## Home
 Active Directory Penetration Testing for Red Teams
@@ -7,9 +7,9 @@ Active Directory Penetration Testing for Red Teams
 ## Projects
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/username/project1): Description of Project 1.
-- [Project 2](https://github.com/username/project2): Description of Project 2.
-- [Project 3](https://github.com/username/project3): Description of Project 3.
+- [PopLabSec](https://github.com/username/project1): Description of Project 1.
+- [AD Attacks](https://github.com/username/project2): Description of Project 2.
+- [Offensive Wireless](https://github.com/username/project3): Description of Project 3.
 
 Feel free to explore these projects and provide any feedback or suggestions.
 
