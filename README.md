@@ -155,3 +155,7 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 
 
 [![NordVPN deal](./website/img/NordVPN01.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)
+
+
+
+![](https://youtu.be/zNzZ1PfUDNk)
