@@ -48,6 +48,8 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 
 ## Active Directory Attacks Theory
 
+![Alt text](image.png)
+
 - Initial Compromise
 - Host Reconnaissance
 - Domain Enumeration
