@@ -1,4 +1,4 @@
-[Home](https://docs.ad-attacks.com) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)| [Author](./website/Author.md)
+[Home](https://docs.ad-attacks.com) | [About](./About.md) | [Projects](./Projects.md) | [Contact](./Contact.md)| [Discord](./Discord.md)| [Author](./Author.md)
 
 ## Home
 Active Directory Penetration Testing for Red Teams

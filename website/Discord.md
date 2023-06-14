@@ -1,4 +1,4 @@
-[Home](https://docs.ad-attacks.com) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)| [Author](./website/Author.md)
+[Home](https://docs.ad-attacks.com) | [About](./About.md) | [Projects](./Projects.md) | [Contact](./Contact.md)| [Discord](./Discord.md)| [Author](./Author.md)
 
 ## 🐦 Discord Servers
 <a href="https://discord.gg/H46uHvSZne"><img src="https://discordapp.com/api/guilds/894273981606150224/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
@@ -11,18 +11,4 @@
 <a href="https://discord.gg/T3NYGA7yFU"><img src="https://discordapp.com/api/guilds/955583027973607515/widget.png?style=banner1" alt="Official Discord Community" target="_blank"></a>
 <br>
 
-<div class="card">
-
-![Image Alt Text](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
-
-**Card Title**
-
-Card description goes here. You can provide more details about the card content, such as features or key points.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-[Button Text](https://example.com)
-
-</div>
+## Join Us

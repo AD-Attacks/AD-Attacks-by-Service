@@ -26,9 +26,12 @@ Happy learning and stay secure!
 
 | Header 1 | Header 2 | Header 3 |
 | -------- | -------- | -------- |
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
-| Cell 7   | Cell 8   | Cell 9   |
+| Service and Port Numbers  | Cell 2   | Cell 3   |
+| Local Groups   | Cell 5   | Cell 6   |
+| Domain Groups  | Cell 8   | Cell 9   |
+| Domain Groups  | Cell 8   | Cell 9   |
+| Domain Groups  | Cell 8   | Cell 9   |
+| Domain Groups  | Cell 8   | Cell 9   |
 
 
 ## Windows Attack Scenarios
