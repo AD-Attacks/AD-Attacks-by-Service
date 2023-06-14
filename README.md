@@ -1,4 +1,4 @@
-[Home](https://docs.ad-attacks.com) | [Projects](./website/Projects.md) | [Discord](./website/Discord.md)| [Author](./website/Author.md) | [Contact](./website/Contact.md)
+[Home](https://docs.ad-attacks.com) | [Projects](./website/Projects.md) | [Discord](./website/Discord.md) | [Videos](./website/Videos.md) | [Author](./website/Author.md) | [Contact](./website/Contact.md)
 
 # Active Directory Penetration Testing
 
