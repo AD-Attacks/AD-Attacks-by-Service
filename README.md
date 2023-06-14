@@ -106,8 +106,8 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 
 ## AD Attacks
 
-| Attack Technique        | Description                                                                                                                                                                       |
-|------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Attack Technique       | Description                                                                                                                                                                       |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pass-the-Hash          | An attack where an attacker steals the hash of a user's password and uses it to authenticate and impersonate the user.                                                           |
 | Golden Ticket          | A technique that allows an attacker to forge Kerberos tickets, granting them unauthorized access with domain-level privileges.                                                   |
 | Kerberoasting          | Exploits the weak encryption of Kerberos ticket-granting tickets (TGTs) to extract the password hashes of Active Directory service accounts.                                       |
