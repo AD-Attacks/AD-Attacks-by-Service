@@ -117,7 +117,7 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 - Silver Ticket — Service hash required
 - Skeleton Key — Full domain compromise (Domain Admin) required
 
-
+[![NordVPN deal](./website/img/NordVPN02.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)
 
 ## AD Attacks
 
