@@ -37,4 +37,4 @@ I look forward to hearing from you!
 
 
 
-[![NordVPN deal](./website/img/NordVPN01.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)
+[![NordVPN deal](./img/NordVPN01.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)
