@@ -105,6 +105,7 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 
 
 ## AD Attacks
+
 | Attack Technique        | Description                                                                                                                                                                       |
 |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pass-the-Hash          | An attack where an attacker steals the hash of a user's password and uses it to authenticate and impersonate the user.                                                           |
