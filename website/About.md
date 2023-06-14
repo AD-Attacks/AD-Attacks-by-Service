@@ -22,18 +22,7 @@ You can reach out to me through the following channels:
 
 I look forward to hearing from you!
 
-<div class="card">
+## InDev
 
-![Image Alt Text](https://cdn.ad-attacks.com/Active-Directory-Attacks.png)
 
-**Card Title**
-
-Card description goes here. You can provide more details about the card content, such as features or key points.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-[Button Text](https://example.com)
-
-</div>
+[![NordVPN deal](./website/img/NordVPN01.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)

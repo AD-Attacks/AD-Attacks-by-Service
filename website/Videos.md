@@ -13,4 +13,4 @@
 
 
 
-![](https://youtu.be/zNzZ1PfUDNk){width="560" height="315"}
+[![NordVPN deal](./website/img/NordVPN01.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)
