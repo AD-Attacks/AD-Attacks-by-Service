@@ -1,4 +1,4 @@
-[Home](https://docs.ad-attacks.com) | [About](./website/About.md) | [Projects](./website/Projects.md) | [Contact](./website/Contact.md)| [Discord](./website/Discord.md)| [Author](./website/Author.md)
+[Home](https://docs.ad-attacks.com) | [Projects](./website/Projects.md) | [Discord](./website/Discord.md)| [Author](./website/Author.md) | [Contact](./website/Contact.md)
 
 # Active Directory Penetration Testing
 
@@ -20,7 +20,7 @@ Happy learning and stay secure!
 
 - [Author RFS](https://author.popdocs.net/)
 
-
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=80711421238a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ## Learn Active Directory
 
