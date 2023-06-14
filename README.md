@@ -22,6 +22,9 @@ Happy learning and stay secure!
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=80711421238a&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+
+[![NordVPN deal](./website/img/NordVPN01.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)
+
 ## Learn Active Directory
 
 | Header 1 | Header 2 | Header 3 |
