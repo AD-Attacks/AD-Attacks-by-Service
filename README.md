@@ -86,22 +86,6 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 
 ## My Tools Arsenal Documentation
 
-| Tool    | Description | Documentation     |
-| ------- | --- | ------------ |
-| Nmap    | 25  | [Nmap]()     |
-| CrackMapExec   | 30  | [CrackMapExec](https://crackmapexec.popdocs.net/)  |
-| Rubeus   | 40  | [Rubeus]()       |
-| Certify | Text | [Certify]() |
-| Mimikatz | Text | [Mimikatz]() |
-| BloodHound | Text | [BloodHound](https://bloodhound.popdocs.net/) |
-| DeathStar | Text | [DeathStar]() |
-| Metasploit | Text | [Metasploit]() |
-| Empire | Text | [Empire]() |
-| Covenant | Text | [Covenant]() |
-| Cobal Strike | Text | [Cobal Strike]() |
-| Tool | Text | Docs |
-| Tool | Text | Docs |
-| Tool | Text | Docs |
 
 ## Windows Privilege Escalation
 
@@ -133,25 +117,6 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 
 
 
-## More Documentation
-
-- [Active Directory Penetration Testing](https://github.com/PopLabSec/Active-Directory-Penetration-Testing)
-- [Infrastructure Penetration Testing]()
-- [Networks Penetration Testing](https://github.com/PopLabSec/Networking-Penetration-Testing)
-- [Web Applications Penetration Testing](https://github.com/PopLabSec/Web-Applications-Penetration-Testing)
-- [Wireless Security](https://www.offensive-wireless.com/)
-- [Ethical Hacking](https://github.com/PopLabSec/RFS-Ethical-Hacking)
-
-
-
-
-## Certifications Guides
-
-
-- [CRTO-Exam-Guide](https://github.com/PopLabSec/CRTO-Exam-Guide)
-- [OSCP Study Guide 2023](https://github.com/PopLabSec/OSCP-Study-Guide-2023)
-- [eJPT Study Guide](https://github.com/PopLabSec/eJPT-Study-Guide)
-- [eCPPTv2 AIO](https://github.com/PopLabSec/eCPPTv2-AIO)
 
 
 [![NordVPN deal](./website/img/NordVPN01.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)
