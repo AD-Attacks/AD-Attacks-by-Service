@@ -16,45 +16,45 @@
 
 ## Kerberos Penetration Testing
 
-* [Kerberos Attacks](kerberos-penetration-testing/kerberos-attacks.md)
-* [Kerberos Documentation](kerberos-penetration-testing/kerberos-documentation.md)
-* [Kerberos Videos](kerberos-penetration-testing/kerberos-videos.md)
+* [Kerberos Attacks](kerberos/page-1.md)
+* [Kerberos Documentation](kerberos/kerberos-documentation.md)
+* [Kerberos Videos](kerberos/kerberos-videos.md)
 
 ## Exchange Penetration Testing
 
-* [Exchange Attacks](exchange-penetration-testing/exchange-attacks.md)
-* [Exchange Documentation](exchange-penetration-testing/exchange-documentation.md)
-* [Exchange Videos](exchange-penetration-testing/exchange-videos.md)
+* [Exchange Attacks](exchange/page-2.md)
+* [Exchange Documentation](exchange/exchange-documentation.md)
+* [Exchange Videos](exchange/exchange-videos.md)
 
 ## MSSQL Penetration Testing
 
-* [MSSQL Attacks](mssql-penetration-testing/mssql-attacks.md)
-* [MSSQL](mssql-penetration-testing/MSSQL/README.md)
-  * [learn-mssql](mssql-penetration-testing/MSSQL/learn-mssql.md)
-  * [local\_enumeration](mssql-penetration-testing/MSSQL/local\_enumeration.md)
-  * [msf\_modules](mssql-penetration-testing/MSSQL/msf\_modules.md)
-  * [remote\_enumeration](mssql-penetration-testing/MSSQL/remote\_enumeration.md)
+* [MSSQL Attacks](mssql/page-5.md)
+* [MSSQL](mssql/MSSQL/README.md)
+  * [learn-mssql](mssql/MSSQL/learn-mssql.md)
+  * [local\_enumeration](mssql/MSSQL/local\_enumeration.md)
+  * [msf\_modules](mssql/MSSQL/msf\_modules.md)
+  * [remote\_enumeration](mssql/MSSQL/remote\_enumeration.md)
 
 ## SCCM Penetration Testing
 
-* [Page 6](sccm-penetration-testing/page-6.md)
+* [Page 6](sccm/page-6.md)
 
 ## MS DNS Penetration Testing
 
-* [Page 1](ms-dns-penetration-testing/page-1.md)
+* [Page 1](dns/page-1.md)
 
 ## IIS Penetration Testing
 
-* [Page 1](iis-penetration-testing/page-1.md)
+* [Page 1](iis/page-1.md)
 
 ## WSUS Penetration Testing
 
-* [Page 3](wsus-penetration-testing/page-3.md)
+* [Page 3](wsus/page-3.md)
 
 ## WinRM Penetration Testing
 
-* [Page 4](winrm-penetration-testing/page-4.md)
+* [Page 4](winrm/page-4.md)
 
 ## LDAP Penetration Testing
 
-* [Page 7](ldap-penetration-testing/page-7.md)
+* [Page 7](ldap/page-7.md)
