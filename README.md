@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/Active-Directory-Attacks.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # README
 
 [Home](https://docs.ad-attacks.com) | [Projects](website/Projects.md) | [Discord](website/Discord.md) | [Videos](website/Videos.md) | [Courses](website/Courses.md) | [Author](website/Author.md) | [Contact](website/Contact.md)
