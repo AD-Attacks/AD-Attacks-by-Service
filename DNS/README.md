@@ -1,5 +1,0 @@
-# Active Directory DNS Server
-
-
-
-
