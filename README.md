@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Active-Directory-Attacks.png
+cover: .gitbook/assets/Attacks by Service.png
 coverY: 0
 layout:
   cover:
