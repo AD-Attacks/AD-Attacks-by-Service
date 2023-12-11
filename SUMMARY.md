@@ -20,6 +20,18 @@
 * [Kerberos Documentation](kerberos/kerberos-documentation.md)
 * [Kerberos Videos](kerberos/kerberos-videos.md)
 
+## AD CS Penetration Testing
+
+* [Page](ad-cs-penetration-testing/page.md)
+* [ESC1](ad-cs-penetration-testing/esc1.md)
+* [ESC2](ad-cs-penetration-testing/esc2.md)
+* [ESC3](ad-cs-penetration-testing/esc3.md)
+* [ESC4](ad-cs-penetration-testing/esc4.md)
+* [ESC5](ad-cs-penetration-testing/esc5.md)
+* [ESC6](ad-cs-penetration-testing/esc6.md)
+* [ESC7](ad-cs-penetration-testing/esc7.md)
+* [ESC8](ad-cs-penetration-testing/esc8.md)
+
 ## Exchange Penetration Testing
 
 * [Exchange Attacks](exchange/page-2.md)

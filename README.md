@@ -134,6 +134,6 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 | Skeleton Key     | A technique that allows an attacker to bypass authentication by injecting a backdoor password into Active Directory, granting them unauthorized access.                               |
 | Silver Ticket    | Similar to a Golden Ticket, but instead of compromising the Key Distribution Center (KDC), it targets specific service principals, granting unauthorized access to specific services. |
 
-[![NordVPN deal](website/img/NordVPN01.jpeg)](https://nordvpn.sjv.io/c/3259613/976012/7452)
+<figure><img src="website/img/NordVPN01.jpeg" alt=""><figcaption></figcaption></figure>
 
 ![](https://youtu.be/zNzZ1PfUDNk)
