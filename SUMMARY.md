@@ -13,16 +13,10 @@
   * [Projects](website/Projects.md)
   * [Videos](website/Videos.md)
 
-## LateralMovement
-
-* [Learn](lateralmovement/lateralmovement.md)
-* [WinRM](lateralmovement/winrm.md)
-* [PsExec](lateralmovement/psexec.md)
-* [WMI](lateralmovement/wmi.md)
-
 ## 🔥 Kerberos Penetration Testing
 
 * [Kerberos Documentation](kerberos/kerberos-documentation.md)
+* [Double Hop](kerberos-penetration-testing/double-hop.md)
 * [Kerberos Attacks](kerberos-penetration-testing/kerberos-attacks/README.md)
   * [Kerberoasting](kerberos-penetration-testing/kerberos-attacks/kerberoasting.md)
   * [AS-REP Roasting](kerberos-penetration-testing/kerberos-attacks/as-rep-roasting.md)
@@ -33,10 +27,11 @@
   * [Golden Tickets](kerberos-penetration-testing/kerberos-tickets/golden-tickets.md)
   * [Diamond Ticket](kerberos-penetration-testing/kerberos-tickets/diamond-ticket.md)
 
-## AD CS Penetration Testing
+## 🔥 AD CS Penetration Testing
 
 * [Study](ad-cs-penetration-testing/study.md)
 * [Certificates](ad-cs-penetration-testing/certificates.md)
+* [AD CS Enumeration](ad-cs-penetration-testing/ad-cs-enumeration.md)
 * [Exploration](ad-cs-penetration-testing/exploration/README.md)
   * [1️⃣ ESC1](ad-cs-penetration-testing/exploration/esc1.md)
   * [2️⃣ ESC2](ad-cs-penetration-testing/exploration/esc2.md)
@@ -49,11 +44,30 @@
 * [Persistance](ad-cs-penetration-testing/persistance.md)
 * [Detection](ad-cs-penetration-testing/detection.md)
 
-## Exchange Penetration Testing
+## 🚒 Lateral Movement
 
-* [Exchange Attacks](exchange/page-2.md)
-* [Exchange Documentation](exchange/exchange-documentation.md)
-* [Exchange Videos](exchange/exchange-videos.md)
+* [Learn](lateral-movement/lateralmovement.md)
+* [WinRM](lateral-movement/winrm.md)
+* [PsExec](lateral-movement/psexec.md)
+* [WMI](lateral-movement/wmi.md)
+
+## 🔥 Evasion and Bypasses
+
+* [Powershell](evasion-and-bypasses/powershell.md)
+* [Constrained Language Mode](evasion-and-bypasses/constrained-language-mode.md)
+* [Enhance logging](evasion-and-bypasses/enhance-logging.md)
+* [System Wide Transcription](evasion-and-bypasses/system-wide-transcription.md)
+* [AMSI](evasion-and-bypasses/amsi.md)
+* [Windows Defender](evasion-and-bypasses/windows-defender.md)
+* [WDAC](evasion-and-bypasses/wdac.md)
+* [JEA](evasion-and-bypasses/jea.md)
+* [EFS](evasion-and-bypasses/efs.md)
+
+## 👮 Extracting Secrets
+
+* [Registry Autologon](extracting-secrets/registry-autologon.md)
+* [SAM hive](extracting-secrets/sam-hive.md)
+* [LSASecrets](extracting-secrets/lsasecrets.md)
 
 ## MSSQL Penetration Testing
 
@@ -63,6 +77,12 @@
   * [local\_enumeration](mssql/MSSQL/local\_enumeration.md)
   * [msf\_modules](mssql/MSSQL/msf\_modules.md)
   * [remote\_enumeration](mssql/MSSQL/remote\_enumeration.md)
+
+## Exchange Penetration Testing
+
+* [Exchange Attacks](exchange/page-2.md)
+* [Exchange Documentation](exchange/exchange-documentation.md)
+* [Exchange Videos](exchange/exchange-videos.md)
 
 ## SCCM Penetration Testing
 
