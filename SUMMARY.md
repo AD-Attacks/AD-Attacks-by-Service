@@ -2,7 +2,6 @@
 
 * [README](README.md)
 * [DomainController](DomainController/README.md)
-* [LateralMovement](LateralMovement/README.md)
 * [Wordlists](Wordlists/README.md)
   * [Windows Default Writeable Folders](Wordlists/writeable\_folders.md)
 * [website](website/README.md)
@@ -14,11 +13,25 @@
   * [Projects](website/Projects.md)
   * [Videos](website/Videos.md)
 
-## Kerberos Penetration Testing
+## LateralMovement
 
-* [Kerberos Attacks](kerberos/page-1.md)
+* [Learn](lateralmovement/lateralmovement.md)
+* [WinRM](lateralmovement/winrm.md)
+* [PsExec](lateralmovement/psexec.md)
+* [WMI](lateralmovement/wmi.md)
+
+## 🔥 Kerberos Penetration Testing
+
 * [Kerberos Documentation](kerberos/kerberos-documentation.md)
-* [Kerberos Videos](kerberos/kerberos-videos.md)
+* [Kerberos Attacks](kerberos-penetration-testing/kerberos-attacks/README.md)
+  * [Kerberoasting](kerberos-penetration-testing/kerberos-attacks/kerberoasting.md)
+  * [AS-REP Roasting](kerberos-penetration-testing/kerberos-attacks/as-rep-roasting.md)
+  * [MS14-068 (KB3011780)](kerberos-penetration-testing/kerberos-attacks/ms14-068-kb3011780.md)
+  * [Unconstrained Delegation](kerberos-penetration-testing/kerberos-attacks/unconstrained-delegation.md)
+* [Kerberos Tickets](kerberos-penetration-testing/kerberos-tickets/README.md)
+  * [Silver Tickets](kerberos-penetration-testing/kerberos-tickets/silver-tickets.md)
+  * [Golden Tickets](kerberos-penetration-testing/kerberos-tickets/golden-tickets.md)
+  * [Diamond Ticket](kerberos-penetration-testing/kerberos-tickets/diamond-ticket.md)
 
 ## AD CS Penetration Testing
 
