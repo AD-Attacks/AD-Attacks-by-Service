@@ -22,15 +22,19 @@
 
 ## AD CS Penetration Testing
 
-* [Page](ad-cs-penetration-testing/page.md)
-* [ESC1](ad-cs-penetration-testing/esc1.md)
-* [ESC2](ad-cs-penetration-testing/esc2.md)
-* [ESC3](ad-cs-penetration-testing/esc3.md)
-* [ESC4](ad-cs-penetration-testing/esc4.md)
-* [ESC5](ad-cs-penetration-testing/esc5.md)
-* [ESC6](ad-cs-penetration-testing/esc6.md)
-* [ESC7](ad-cs-penetration-testing/esc7.md)
-* [ESC8](ad-cs-penetration-testing/esc8.md)
+* [Study](ad-cs-penetration-testing/study.md)
+* [Certificates](ad-cs-penetration-testing/certificates.md)
+* [Exploration](ad-cs-penetration-testing/exploration/README.md)
+  * [1️⃣ ESC1](ad-cs-penetration-testing/exploration/esc1.md)
+  * [2️⃣ ESC2](ad-cs-penetration-testing/exploration/esc2.md)
+  * [ESC3](ad-cs-penetration-testing/exploration/esc3.md)
+  * [ESC4](ad-cs-penetration-testing/exploration/esc4.md)
+  * [ESC5](ad-cs-penetration-testing/exploration/esc5.md)
+  * [ESC6](ad-cs-penetration-testing/exploration/esc6.md)
+  * [ESC7](ad-cs-penetration-testing/exploration/esc7.md)
+  * [ESC8](ad-cs-penetration-testing/exploration/esc8.md)
+* [Persistance](ad-cs-penetration-testing/persistance.md)
+* [Detection](ad-cs-penetration-testing/detection.md)
 
 ## Exchange Penetration Testing
 
