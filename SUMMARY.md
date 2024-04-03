@@ -21,11 +21,14 @@
   * [Kerberoasting](kerberos-penetration-testing/kerberos-attacks/kerberoasting.md)
   * [AS-REP Roasting](kerberos-penetration-testing/kerberos-attacks/as-rep-roasting.md)
   * [MS14-068 (KB3011780)](kerberos-penetration-testing/kerberos-attacks/ms14-068-kb3011780.md)
-  * [Unconstrained Delegation](kerberos-penetration-testing/kerberos-attacks/unconstrained-delegation.md)
+  * [Unconstrained Delegation KUD](kerberos-penetration-testing/kerberos-attacks/unconstrained-delegation-kud.md)
+  * [Bronze Bit](kerberos-penetration-testing/kerberos-attacks/bronze-bit.md)
+  * [S4U2self](kerberos-penetration-testing/kerberos-attacks/s4u2self.md)
 * [Kerberos Tickets](kerberos-penetration-testing/kerberos-tickets/README.md)
   * [Silver Tickets](kerberos-penetration-testing/kerberos-tickets/silver-tickets.md)
   * [Golden Tickets](kerberos-penetration-testing/kerberos-tickets/golden-tickets.md)
   * [Diamond Ticket](kerberos-penetration-testing/kerberos-tickets/diamond-ticket.md)
+  * [Sapphire Tickets](kerberos-penetration-testing/kerberos-tickets/sapphire-tickets.md)
 
 ## 🔥 AD CS Penetration Testing
 
