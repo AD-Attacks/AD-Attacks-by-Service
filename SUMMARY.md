@@ -30,7 +30,7 @@
   * [SPN-Jacking](kerberos-penetration-testing/kerberos-attacks/spn-jacking.md)
   * [S4U2self](kerberos-penetration-testing/kerberos-attacks/s4u2self.md)
 * [🟢 Kerberos Tickets](kerberos-penetration-testing/kerberos-tickets/README.md)
-  * [Silver Tickets](kerberos-penetration-testing/kerberos-tickets/silver-tickets.md)
+  * [✅ Silver Tickets](kerberos-penetration-testing/kerberos-tickets/silver-tickets.md)
   * [Golden Tickets](kerberos-penetration-testing/kerberos-tickets/golden-tickets.md)
   * [Diamond Tickets](kerberos-penetration-testing/kerberos-tickets/diamond-tickets.md)
   * [Sapphire Tickets](kerberos-penetration-testing/kerberos-tickets/sapphire-tickets.md)

@@ -1,10 +1,14 @@
-# Silver Tickets
+# ✅ Silver Tickets
 
 ### Silver Tickets
 
 Silver Tickets are a type of security attack in Windows environments that target Kerberos, a network authentication protocol.&#x20;
 
 They allow attackers to generate tickets granting access to specific services without requiring validation from the Key Distribution Center (KDC).
+
+
+
+{% @mailchimp/mailchimpSubscribe %}
 
 #### How They Work:
 
@@ -22,3 +26,5 @@ They allow attackers to generate tickets granting access to specific services wi
 * Regularly change service account passwords.
 * Monitor for unusual activity within the network.
 * Implement multi-factor authentication and limited permissions where possible.
+
+{% embed url="https://www.youtube.com/watch?v=_nJ-b1UFDVM" %}
