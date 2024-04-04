@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [DomainController](DomainController/README.md)
+* [AD Enumeration](DomainController/README.md)
 * [Wordlists](Wordlists/README.md)
   * [Windows Default Writeable Folders](Wordlists/writeable\_folders.md)
 * [website](website/README.md)
