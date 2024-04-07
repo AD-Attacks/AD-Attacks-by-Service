@@ -31,3 +31,24 @@ Templates vulnerable to ESC1 have the following configurations:
 * Requires Management Approval: False
 * Authorized Signatures Required: 0
 
+**ESC1 Requirement 1: An overly permissive certificate template security descriptor grants certificate enrollment rights to low-privileged users.**
+
+**ESC1 Requirement 2: The certificate template allows requesters to specify a subjectAltName in the CSR.**
+
+**ESC1 Requirement 3: The certificate template defines EKUs that enable client authentication.**
+
+**ESC1 Requirement 4: Manager approval is disabled.**
+
+**ESC1 Requirement 5: No authorized signatures are required.**
+
+\
+\
+
+
+\
+
+
+>
+>
+> \
+> SpectorOps
