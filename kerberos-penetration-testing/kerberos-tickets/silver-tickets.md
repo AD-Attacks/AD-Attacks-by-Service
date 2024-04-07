@@ -28,3 +28,5 @@ They allow attackers to generate tickets granting access to specific services wi
 * Implement multi-factor authentication and limited permissions where possible.
 
 {% embed url="https://www.youtube.com/watch?v=_nJ-b1UFDVM" %}
+
+{% embed url="https://attack.mitre.org/techniques/T1558/002/" %}

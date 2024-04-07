@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore the intricacies of Kerberos Documentation through our comprehensive
+  article, offering insightful knowledge into network authentication protocol,
+  its unique functions and applications. Enhance.
+---
+
 # Kerberos Documentation
 
 * Understanding Kerberos Authentication: A Comprehensive Guide

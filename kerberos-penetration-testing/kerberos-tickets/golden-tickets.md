@@ -12,3 +12,5 @@ Here's a brief overview:
 * **Mitigation:** Regularly changing the krbtgt account password (twice to mitigate the use of an old password), implementing strict access controls, and monitoring unusual activities are key steps in mitigating Golden Ticket attacks.
 
 {% embed url="https://www.youtube.com/watch?v=o98_eRt777Y" %}
+
+{% embed url="https://attack.mitre.org/techniques/T1558/001/" %}

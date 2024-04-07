@@ -1,3 +1,10 @@
+---
+description: >-
+  Dive into our insightful article to understand Kerberoasting; its purpose,
+  workings, and role in cybersecurity. Learn how to safeguard your digital
+  assets!
+---
+
 # Kerberoasting
 
 #### Kerberoasting

@@ -1,4 +1,8 @@
 ---
+description: >-
+  Discover the details in our in-depth article on Kerberos Attacks. Understand
+  how they operate, techniques used by hackers and how to efficiently safeguard
+  your systems.
 cover: ../../.gitbook/assets/Attacks by Service.png
 coverY: 0
 layout:
@@ -56,3 +60,5 @@ Silver ticket attacks involve the creation of forged service tickets (TGS ticket
 Golden ticket attacks are particularly insidious, involving the creation of a forged TGT ticket using the KRBTGT account's NTLM hash. With a golden ticket, an attacker gains unrestricted access to any resource within the Active Directory domain, essentially granting them "god mode" within the compromised environment.
 
 Understanding and mitigating these attacks require a robust security posture, including regular auditing of service account permissions, enforcing the use of strong, unique passwords for service accounts, and implementing advanced monitoring and alerting for unusual authentication requests or patterns.
+
+{% embed url="https://www.tarlogic.com/blog/how-to-attack-kerberos/" %}

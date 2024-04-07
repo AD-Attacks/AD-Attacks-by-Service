@@ -1,4 +1,11 @@
-# DomainController
+---
+description: >-
+  Explore the insightful AD Enumeration article catering to methods, tools, and
+  protocols in active directory structures. Get a clear understanding about AD
+  Enumeration in IT domains.
+---
+
+# AD Enumeration
 
 ### Active Directory Local Enumeration
 

@@ -1,3 +1,10 @@
+---
+description: >-
+  Explore our comprehensive article on Shadow Credentials, uncovering the risks,
+  prevention methods, and their impact on data security. Dive into the world of
+  hidden access now.
+---
+
 # Shadow Credentials
 
 ### Shadow Credentials

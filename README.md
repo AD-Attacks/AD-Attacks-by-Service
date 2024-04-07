@@ -1,4 +1,8 @@
 ---
+description: >-
+  Uncover comprehensive insights into Active Directory Penetration Testing with
+  our detailed article. Gain a deeper understanding of how to identify
+  vulnerabilities and strengthen your network security
 cover: .gitbook/assets/Attacks by Service.png
 coverY: 0
 layout:
