@@ -15,25 +15,32 @@
 
 ## 🔥 Kerberos Penetration Testing
 
-* [Kerberos Documentation](kerberos/kerberos-documentation.md)
-* [Double Hop](kerberos-penetration-testing/double-hop.md)
+* [🟢 Kerberos Documentation](kerberos/kerberos-documentation.md)
 * [Kerberos Attacks](kerberos-penetration-testing/kerberos-attacks/README.md)
   * [Kerberoasting](kerberos-penetration-testing/kerberos-attacks/kerberoasting.md)
   * [AS-REP Roasting](kerberos-penetration-testing/kerberos-attacks/as-rep-roasting.md)
   * [ASREQroast](kerberos-penetration-testing/kerberos-attacks/asreqroast.md)
+  * [Double Hop](kerberos-penetration-testing/kerberos-attacks/double-hop.md)
   * [MS14-068 (KB3011780)](kerberos-penetration-testing/kerberos-attacks/ms14-068-kb3011780.md)
+  * [SPN-jacking](kerberos-penetration-testing/kerberos-attacks/spn-jacking.md)
+  * [Pass the Certificate](kerberos-penetration-testing/kerberos-attacks/pass-the-certificate.md)
   * [Unconstrained Delegation KUD](kerberos-penetration-testing/kerberos-attacks/unconstrained-delegation-kud.md)
   * [Bronze Bit](kerberos-penetration-testing/kerberos-attacks/bronze-bit.md)
+  * [Pre-auth bruteforce](kerberos-penetration-testing/kerberos-attacks/pre-auth-bruteforce.md)
   * [Shadow Credentials](kerberos-penetration-testing/kerberos-attacks/shadow-credentials.md)
   * [UnPAC the Hash](kerberos-penetration-testing/kerberos-attacks/unpac-the-hash.md)
   * [sAMAccountName](kerberos-penetration-testing/kerberos-attacks/samaccountname.md)
-  * [SPN-Jacking](kerberos-penetration-testing/kerberos-attacks/spn-jacking.md)
+  * [Pass the cache](kerberos-penetration-testing/kerberos-attacks/pass-the-cache.md)
+  * [Overpass the hash](kerberos-penetration-testing/kerberos-attacks/overpass-the-hash.md)
+  * [SPN-Jacking](kerberos-penetration-testing/kerberos-attacks/spn-jacking-1.md)
   * [S4U2self](kerberos-penetration-testing/kerberos-attacks/s4u2self.md)
 * [🟢 Kerberos Tickets](kerberos-penetration-testing/kerberos-tickets/README.md)
   * [✅ Silver Tickets](kerberos-penetration-testing/kerberos-tickets/silver-tickets.md)
   * [Golden Tickets](kerberos-penetration-testing/kerberos-tickets/golden-tickets.md)
   * [Diamond Tickets](kerberos-penetration-testing/kerberos-tickets/diamond-tickets.md)
   * [Sapphire Tickets](kerberos-penetration-testing/kerberos-tickets/sapphire-tickets.md)
+  * [RODC Golden tickets](kerberos-penetration-testing/kerberos-tickets/rodc-golden-tickets.md)
+  * [MS14-068](kerberos-penetration-testing/kerberos-tickets/ms14-068.md)
 
 ## 🔥 AD CS Penetration Testing
 

@@ -5,7 +5,7 @@ description: >-
   its unique functions and applications. Enhance.
 ---
 
-# Kerberos Documentation
+# 🟢 Kerberos Documentation
 
 * Understanding Kerberos Authentication: A Comprehensive Guide
 * [Kerberos Silver Ticket Attack Explained](https://www.ad-attacks.com/silver-ticket-attack-explained/)
