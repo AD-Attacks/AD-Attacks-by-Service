@@ -29,13 +29,19 @@ layout:
 
 Welcome to the Active Directory Attacks Documentation for Red Teams!
 
-This documentation serves as a comprehensive resource for understanding various attack techniques and vulnerabilities associated with Active Directory environments. Whether you are a security professional, system administrator, or simply interested in learning about cybersecurity, this documentation will provide valuable insights into the risks and countermeasures related to Active Directory attacks.
+This documentation serves as a comprehensive resource for understanding various attack techniques and vulnerabilities associated with Active Directory environments.&#x20;
+
+Whether you are a security professional, system administrator, or simply interested in learning about cyber security, this documentation will provide valuable insights into the risks and countermeasures related to Active Directory attacks.
 
 &#x20;
 
+{% @mailchimp/mailchimpSubscribe %}
+
 <figure><img src="https://cdn.ad-attacks.com/Active-Directory-Attacks.png" alt=""><figcaption></figcaption></figure>
 
-In this documentation, you will find detailed explanations of different attack techniques employed by malicious actors to compromise Active Directory infrastructures. We cover well-known techniques such as Pass-the-Hash, Golden Ticket, Kerberoasting, and more. Each attack technique is accompanied by a description, potential impact, detection methods, and recommended mitigation strategies.
+In this documentation, you will find detailed explanations of different attack techniques employed by malicious actors to compromise Active Directory infrastructures.&#x20;
+
+We cover well-known techniques such as Pass-the-Hash, Golden Ticket, Kerberoasting, and more. Each attack technique is accompanied by a description, potential impact, detection methods, and recommended mitigation strategies.
 
 
 
