@@ -7,6 +7,10 @@ description: >-
 
 # 🟢 Kerberos Documentation
 
+{% hint style="warning" %}
+The Kerberos protocol uses port 88 (both TCP and UDP).
+{% endhint %}
+
 * Understanding Kerberos Authentication: A Comprehensive Guide
 * [Kerberos Silver Ticket Attack Explained](https://www.ad-attacks.com/silver-ticket-attack-explained/)
 * [Kerberos Golden Ticket Attack Explained](https://www.ad-attacks.com/golden-ticket-attack-explained/)
@@ -18,7 +22,7 @@ description: >-
 
 Kerberos authentication is a network authentication protocol designed to provide strong authentication for client/server applications by using secret-key cryptography.&#x20;
 
-At its core, Kerberos is based on the Needham-Schroeder symmetric key protocol and was developed as part of MIT's Project Athena.&#x20;
+At its core, Kerberos is based on the Needham-Schroeder symmetric key protocol and was developed as part of MIT's Project Athena.
 
 The primary objective of Kerberos is to authenticate users to services and services to users in a secure and transparent manner, without the need for transmitting passwords over the network.
 
@@ -29,3 +33,7 @@ The primary objective of Kerberos is to authenticate users to services and servi
 3. **Service Request**: When the user needs to access a service (e.g., a file server), the client requests a service ticket from the KDC's Ticket-Granting Service (TGS) using the TGT.
 
 {% embed url="https://www.youtube.com/watch?v=snGeZlDQL2Q" %}
+
+4. **Service Ticket Issuance**: The TGS verifies the TGT and the service request. If valid, it issues a service ticket encrypted with the service's secret key.
+5. **Accessing the Service**: The client then sends the service ticket to the desired service. The service decrypts the ticket using its own secret key to authenticate the user.
+6. **Service Session**: Once authenticated, the service grants access to the user, establishing a secure communication session.
