@@ -2,14 +2,19 @@
 description: Domain escalation via misconfigured certificate template access control
 ---
 
-# ESC4
+# 4️⃣ ESC4
+
+ESC4 is relatively unique in its exploitation, utilizing mainly Active Directory ACL permissions.
 
 This misconfiguration can occur when unintended users are granted one of the following template security permissions:
 
 * Owner
+* FullControl
 * WriteOwnerPrincipals
 * WriteDaclPrincipals
 * WritePropertyPrincipals
+
+Then such a user can modify the target template to configure the specific conditions for an ESC1 attack, then request a certificate as the Domain Administrator.
 
 #### Adding Certificates with StandIn
 

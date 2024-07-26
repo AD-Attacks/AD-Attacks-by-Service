@@ -2,7 +2,7 @@
 description: Domain escalation via vulnerable PKI AD Object Access Control
 ---
 
-# ESC5
+# 5️⃣ ESC5
 
 ### Domain Escalation via Vulnerable PKI AD Object Access Control
 
@@ -14,11 +14,11 @@ Domain escalation refers to the process of gaining elevated permissions within a
 2. **Exploiting ACLs**: Upon finding a vulnerable object, attackers manipulate the ACLs to grant themselves higher privileges or to execute commands that should be restricted.
 3. **Privilege Escalation**: With elevated privileges, attackers can now access sensitive information, compromise accounts, or deploy malicious payloads within the domain.
 
-#### Mitigation
+This is mainly due to the fact that with control over the AD PKI, we can create specific conditions for any ESC vulnerability that allows Domain privilege escalation.
 
-To protect against this type of escalation:
+Some of the various objects include:
 
-* **Regularly Review ACLs**: Ensure that ACLs on PKI AD objects are correctly set, following the principle of least privilege.
-* **Monitor AD Objects**: Use tools to monitor changes to AD objects and ACLs, alerting administrators of unauthorized modifications.
-* **Implement Multi-Factor Authentication (MFA)**: Reduce the risk of initial compromise which could lead to escalation.
-* **Security Training**: Educate administrators on the importance of secure ACL configurations and the risks associated with PKI within AD environments.
+1. The CA’s Computer Object
+2. The CA’s RPC/DCOM server
+3. Any objects inside of the container “CN=Public Key Services,CN=Services,CN=Configuration,DC=,DC=”
+
