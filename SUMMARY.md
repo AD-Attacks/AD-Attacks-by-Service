@@ -58,9 +58,9 @@
   * [8️⃣ ESC8](ad-cs-penetration-testing/exploration/esc8.md)
   * [9️⃣ ESC9](ad-cs-penetration-testing/exploration/esc9.md)
   * [🔟 ESC10](ad-cs-penetration-testing/exploration/esc10.md)
-  * [ESC11](ad-cs-penetration-testing/exploration/esc11.md)
-  * [ESC12](ad-cs-penetration-testing/exploration/esc12.md)
-  * [ESC13](ad-cs-penetration-testing/exploration/esc13.md)
+  * [0️⃣ ESC11](ad-cs-penetration-testing/exploration/esc11.md)
+  * [0️⃣ ESC12](ad-cs-penetration-testing/exploration/esc12.md)
+  * [0️⃣ ESC13](ad-cs-penetration-testing/exploration/esc13.md)
 * [Persistance](ad-cs-penetration-testing/persistance.md)
 * [Detection](ad-cs-penetration-testing/detection.md)
 
