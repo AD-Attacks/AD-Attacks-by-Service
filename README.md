@@ -100,24 +100,7 @@ Active Directory (AD) External Reconnaissance is a methodology used to gather in
 * Domain Persistence
 * Exfiltrate
 
-### Active Directory Attacks by Service Type (Protocol)
 
-| Protocol                      | Port     | Description |
-| ----------------------------- | -------- | ----------- |
-| [NetBIOS](broken-reference)   | Cell 2   | Cell 3      |
-| [DNS](DNS/index.md)           | 53       | Cell 6      |
-| [MsSQL](MSSQL/index.md)       | Cell 8   | Cell 9      |
-| [LDAP](LDAP/index.md)         | Cell 8   | Cell 9      |
-| [Kerberos](Kerberos/index.md) | Cell 8   | Cell 9      |
-| [Samba](Samba/index.md)       | 445      | Cell 9      |
-| [IIS](IIS/index.md)           | 80 / 443 | Cell 9      |
-| [Exchange](Exchange/index.md) | Cell 8   | Cell 9      |
-| [WinRM](WinRM/index.md)       | Cell 8   | Cell 9      |
-| [SCCM](SCCM/index.md)         | Cell 8   | Cell 9      |
-
-### My Tools Arsenal Documentation
-
-### Windows Privilege Escalation
 
 ### Domain Privilege Escalation
 

