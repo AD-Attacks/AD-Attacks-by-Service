@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Kerberos Attacks
+# 🟢 Kerberos Attacks
 
 Kerberos is a network authentication protocol designed to provide strong authentication for client/server applications by using secret-key cryptography. Despite its robust design, several attack vectors have been identified and exploited by malicious actors.&#x20;
 

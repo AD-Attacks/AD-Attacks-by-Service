@@ -14,4 +14,6 @@ If the CT_FLAG_NO_SECURITY_EXTENSION flag is not set, the CA MUST add the szOID_
 
 So when CT\_FLAG\_NO\_SECURITY\_EXTENSION is set, the CA never adds the szOID\_NTDS\_CA\_SECURITY\_EXT security extension, meaning it never directly references the users ObjectSid value.
 
-We can change the user's UPN (User Principal Name) to that of a higher-privilege user, deliberately leaving the domain ambiguous to avoid conflicts. After altering the UPN, request a certificate as the spoofed user, then revert the UPN to its original value.
+We can change the user's UPN (User Principal Name) to that of a higher-privilege user, deliberately leaving the domain ambiguous to avoid conflicts.&#x20;
+
+After altering the UPN, request a certificate as the spoofed user, then revert the UPN to its original value.

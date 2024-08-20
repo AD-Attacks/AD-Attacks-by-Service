@@ -10,4 +10,6 @@ By leveraging authentication coercion, we can relay any domain computer's authen
 
 If the CA server lacks the “IF\_ENFORCEENCRYPTICERTREQUEST” attribute, an attacker can perform NTLM relay attacks to the RPC service without signing.
 
-\
+{% embed url="https://blog.compass-security.com/2022/11/relaying-to-ad-certificate-services-over-rpc/" %}
+
+{% embed url="https://heartburn.dev/exploiting-active-directory-certificate-services-esc11-walkthrough/" %}
