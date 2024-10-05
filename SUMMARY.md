@@ -61,6 +61,7 @@
   * [0️⃣ ESC11](ad-cs-penetration-testing/exploration/esc11.md)
   * [0️⃣ ESC12](ad-cs-penetration-testing/exploration/esc12.md)
   * [0️⃣ ESC13](ad-cs-penetration-testing/exploration/esc13.md)
+  * [References](ad-cs-penetration-testing/exploration/references.md)
 * [Persistance](ad-cs-penetration-testing/persistance.md)
 * [Detection](ad-cs-penetration-testing/detection.md)
 
